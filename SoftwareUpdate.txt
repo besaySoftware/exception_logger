@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
